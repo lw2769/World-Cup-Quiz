@@ -1,0 +1,16 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  background-color:whitesmoke;
+}
+.header{
+  font-family: 'Permanent Marker', cursive;
+  font-size:20px;
+  text-align: center;
+  color: darkred;
+  padding: 30px;
+}
+.header h1{
+  font-size: 45px;
+  border-bottom: solid #FFF 1px;
+}
